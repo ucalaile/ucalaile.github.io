@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ucalaile.github.io/sitemap_index.ucalaile
